@@ -17,3 +17,8 @@ reading and editing excel files with macros using python
         Stores the complete log data for the modules.
 8. repo.xlsm --
         This xlsm file contains the source data and in this file itself the calculated data is inserted. Note that this file makes use of various macros to prepare charts, and format cells.
+        
+NOTE : External libraries used -
+        - openpyxl : https://pypi.python.org/pypi/openpyxl
+        - xlrd : https://pypi.python.org/pypi/xlrd
+        
