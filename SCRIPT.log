@@ -1,0 +1,33 @@
+ERROR:root:
+[Errno 2] No such file or directory: '/home/heisenberg/github/excel_manipulation/REPO.XLSM' : 2017-10-26 23:33:22.665053
+INFO:root:
+ Work Order Data written SUCCESSFULLY - /home/heisenberg/github/excel_manipulation/repo.xlsm : 2017-10-26 23:33:43.475013
+INFO:root:
+Incidient data for sheet : Total Portfolio-slide 12 written successfully/home/heisenberg/github/excel_manipulation/repo.xlsm : 2017-10-26 23:33:44.508884
+INFO:root:
+Incidient data for sheet : ECC written successfully/home/heisenberg/github/excel_manipulation/repo.xlsm : 2017-10-26 23:33:45.385774
+INFO:root:
+Incidient data for sheet : FileNet written successfully/home/heisenberg/github/excel_manipulation/repo.xlsm : 2017-10-26 23:33:46.280079
+INFO:root:
+Incidient data for sheet : SEDS written successfully/home/heisenberg/github/excel_manipulation/repo.xlsm : 2017-10-26 23:33:47.187383
+INFO:root:
+Incidient data for sheet : Kofax written successfully/home/heisenberg/github/excel_manipulation/repo.xlsm : 2017-10-26 23:33:48.092210
+INFO:root:
+Incidient data for sheet : ILINX written successfully/home/heisenberg/github/excel_manipulation/repo.xlsm : 2017-10-26 23:33:48.959120
+INFO:root:
+Incidient data for sheet : Alexandria written successfully/home/heisenberg/github/excel_manipulation/repo.xlsm : 2017-10-26 23:33:49.846656
+INFO:root:
+Incident data for sheet : Total Incidents written successfully/home/heisenberg/github/excel_manipulation/repo.xlsm : 2017-10-26 23:33:50.753451
+INFO:root:
+Root Cause Analysis for sheet : RCA-ECC filled successfully/home/heisenberg/github/excel_manipulation/repo.xlsm : 2017-10-26 23:33:51.783330
+INFO:root:
+Root Cause Analysis for sheet : RCA-FileNet filled successfully/home/heisenberg/github/excel_manipulation/repo.xlsm : 2017-10-26 23:33:52.649922
+INFO:root:
+Root Cause Analysis for sheet : RCA-SEDS filled successfully/home/heisenberg/github/excel_manipulation/repo.xlsm : 2017-10-26 23:33:53.550048
+INFO:root:
+Root Cause Analysis for sheet : RCA-Kofax filled successfully/home/heisenberg/github/excel_manipulation/repo.xlsm : 2017-10-26 23:33:54.460014
+INFO:root:
+Root Cause Analysis for sheet : RCA-ILINX filled successfully/home/heisenberg/github/excel_manipulation/repo.xlsm : 2017-10-26 23:33:55.376056
+INFO:root:
+Root Cause Analysis for sheet : RCA-Alexandria filled successfully/home/heisenberg/github/excel_manipulation/repo.xlsm : 2017-10-26 23:33:56.239872
+INFO:root:All sheets written successfully at 2017-10-26 23:33:56.240356
